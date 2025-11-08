@@ -73,11 +73,12 @@ body {
     transition: .25s;
 }
 
-/* Header */
-
+/* -------------------------------------------------------------------------- */
+/*                                   Header                                   */
 header {
     padding: 24px 0;
 }
+
 header .menu,
 header .logo {
   width: 50%;
@@ -111,11 +112,11 @@ header .menu li:hover a {
     color: var(--black);
     transition: .25s;
 }
+/* -------------------------------------------------------------------------- */
 
-/* Header End */
 
-/* Main Section */
-
+/* -------------------------------------------------------------------------- */
+/*                                Main Section                                */
 #banner {
     margin: 42px 0;
 }
@@ -161,11 +162,11 @@ header .menu li:hover a {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     transition: .25s;
 }
+/* -------------------------------------------------------------------------- */
 
-/* Main Section End */
 
-/* Latest Work Section */
-
+/* -------------------------------------------------------------------------- */
+/*                             Latest Work Section                            */
 #latestwork {
     margin: 42px 0;
 }
@@ -202,11 +203,11 @@ header .menu li:hover a {
     line-height: 159%;
     color: var(--black);
 }
+/* -------------------------------------------------------------------------- */
 
-/* Latest work Section End */
 
-/* Testimonial Section */
-
+/* -------------------------------------------------------------------------- */
+/*                             Testimonial Section                            */
 #testimonial {
     margin: 42px 0; 
 }
@@ -227,11 +228,11 @@ header .menu li:hover a {
     line-height: 159%;
     margin-bottom: 68px;
 }
+/* -------------------------------------------------------------------------- */
 
-/* Testimonial Section End */
 
-/* Footer */
-
+/* -------------------------------------------------------------------------- */
+/*                                   Footer                                   */
 footer {
     padding: 24px 0;
 }
@@ -279,5 +280,4 @@ form #qsn {
     border: transparent;
     background-color: var(--grey);
 }
-
-/* Footer End */
+/* -------------------------------------------------------------------------- */
